@@ -1,12 +1,12 @@
 # Basic
 title: 高杰
-subtitle: 个人站
+subtitle: 你的努力
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: Go
 # 头像里面的描述
 avatarDesc: 大数据 / VR / AR
-url: "http://www.ueffort.io"
+url: "http://www.ueffort.com"
 
 # Comment
 comment:
@@ -21,7 +21,7 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id:   
+    id: 31c1d41fdbf6be7c502abf99f57d8d67
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
